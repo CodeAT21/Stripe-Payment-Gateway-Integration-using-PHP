@@ -13,7 +13,7 @@ define('STRIPE_CANCEL_URL', 'http://localhost/stripe/cancel.php');
 define('DB_HOST', 'localhost');  
 define('DB_USERNAME', 'root');  
 define('DB_PASSWORD', '');  
-define('DB_NAME', 'demos'); 
+define('DB_NAME', 'codeat21'); 
 ?>
 
 
