@@ -3,8 +3,8 @@
 // Minimum amount is $0.50 US 
 // Test Stripe API configuration 
 
-define('STRIPE_API_KEY', 'sk_test_jXnbWYmNh6227VACFxp1gJog');  
-define('STRIPE_PUBLISHABLE_KEY', 'pk_test_d8GOWxzerUcB34ENyGG4fGi6'); 
+define('STRIPE_API_KEY', 'Your_API_Secret_key');  
+define('STRIPE_PUBLISHABLE_KEY', 'Your_API_Publishable_key'); 
 
 define('STRIPE_SUCCESS_URL', 'http://localhost/stripe/success.php'); 
 define('STRIPE_CANCEL_URL', 'http://localhost/stripe/cancel.php'); 
